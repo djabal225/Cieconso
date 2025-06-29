@@ -1,51 +1,50 @@
-# ⚡ Calculateur de Recharge Électrique - djabal225
+# ⚡ Calculateur de Consommation Électrique - Cieconso
 
-Bienvenue sur le projet **Calculateur de Recharge Électrique**, une application web simple et intuitive développée par **djabal225**.  
-Ce site vous aide à **estimer la consommation d’énergie** de vos appareils électriques et à **calculer les coûts mensuels de recharge**.
+Bienvenue sur **Cieconso**, une application web conçue pour vous aider à **calculer la consommation mensuelle en électricité de vos appareils** et à **estimer les coûts** en fonction du tarif au kWh.
+
+Ce projet a été développé et hébergé par **djabal 225** via GitHub Pages.
 
 ---
 
 ## 🚀 Fonctionnalités
 
-- ✅ Ajout d'appareils (puissance, durée, nombre)
-- ✅ Calcul automatique de la consommation kWh
-- ✅ Estimation du coût selon le tarif en FCFA/kWh
-- ✅ Design responsive pour mobile et ordinateur
-- ✅ Fonctionne comme une PWA (installable)
+- ✅ Ajout d’appareils avec leur puissance, durée d’utilisation, et quantité
+- ✅ Calcul automatique de la consommation en kWh
+- ✅ Estimation du coût mensuel selon le tarif CIE
+- ✅ Interface responsive (mobile et PC)
+- ✅ Version PWA installable sur mobile (avec icônes + manifest)
 
 ---
 
-## 📲 Accès à l'application
+## 🌐 Accès à l'application
 
-👉 **[Cliquez ici pour utiliser l'application](https://djabal225.github.io/Cieconso/.github.iov) 
-L'application est en ligne grâce à **GitHub Pages**.
+👉 [Cliquez ici pour accéder à Cieconso](https://djabal225.github.io/Cieconso/)
 
 ---
 
 ## 🛠️ Technologies utilisées
 
-- HTML5
-- CSS3
-- JavaScript
-- PWA (manifest + service worker)
-- GitHub Pages (hébergement)
+- HTML5  
+- CSS3  
+- JavaScript  
+- GitHub Pages (hébergement)  
+- PWA (Progressive Web App)
 
 ---
 
-## 📥 Installation locale (optionnelle)
+## 📥 Utilisation en local
 
-1. Télécharger ou cloner ce dépôt
-2. Ouvrir le fichier `index.html` dans un navigateur
-3. Optionnel : ajouter à l'écran d'accueil (PWA)
-
----
-
-## 📧 Contact
-
-Développé par **djabal225**  
+1. Cloner ou télécharger le dépôt  
+2. Ouvrir `index.html` dans un navigateur  
+3. Option : ajouter à l’écran d’accueil si tu es sur mobile (PWA)
 
 ---
 
-## 📝 Licence
+## 👤 Auteur
 
-Ce projet est open-source. Vous pouvez le modifier, partager et l'utiliser librement.
+**djabal 225**  
+- GitHub : [https://github.com/djabal225](https://github.com/djabal225)
+
+---
+
+## 📄 Licence
