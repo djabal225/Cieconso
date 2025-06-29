@@ -1,6 +1,6 @@
-# ⚡ Calculateur de Recharge Électrique - Ybra7
+# ⚡ Calculateur de Recharge Électrique - djabal225
 
-Bienvenue sur le projet **Calculateur de Recharge Électrique**, une application web simple et intuitive développée par **djabal**.  
+Bienvenue sur le projet **Calculateur de Recharge Électrique**, une application web simple et intuitive développée par **djabal225**.  
 Ce site vous aide à **estimer la consommation d’énergie** de vos appareils électriques et à **calculer les coûts mensuels de recharge**.
 
 ---
@@ -17,7 +17,7 @@ Ce site vous aide à **estimer la consommation d’énergie** de vos appareils �
 
 ## 📲 Accès à l'application
 
-👉 **[Cliquez ici pour utiliser l'application](https://djabal225.github.io**) 
+👉 **[Cliquez ici pour utiliser l'application](https://djabal225.github.io/Cieconso/.github.iov) 
 L'application est en ligne grâce à **GitHub Pages**.
 
 ---
@@ -42,9 +42,7 @@ L'application est en ligne grâce à **GitHub Pages**.
 
 ## 📧 Contact
 
-Développé par **djabal**  
-- GitHub : [https://github.com/djabal](https://github.com/djabal)
-- Email : *(à remplir si tu veux)*
+Développé par **djabal225**  
 
 ---
 
