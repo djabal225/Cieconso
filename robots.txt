@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://djabal225.github.io/Cieconso/sitemap.xml
